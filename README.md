@@ -4,7 +4,7 @@
 
   An example dataset.
   
-  These are AAI values between 87 genomes calculated by AAI calculator program from Segata lab.
+  These are AAI values between 87 genomes calculated by AAI calculator program from Kostas lab. (http://enve-omics.ce.gatech.edu/aai/)
 
 
 ### - monophyly_cutoff.exe
